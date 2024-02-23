@@ -1,0 +1,60 @@
+.container {
+    margin-bottom: 50px;
+}
+
+.head-bg {
+    background-color: rgb(240, 255, 240);
+    height: 550px;
+    margin-bottom: 50px;
+}
+
+.navbar-brand img {
+    width: 200px;
+}
+
+.nav-item {
+    padding-right: 50px;
+}
+
+.illustration {
+    width: 550px;
+}
+
+.card-bg {
+    background-color: rgb(240, 255, 240);
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+.card-bg1{
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
+
+.img-size img {
+    width: 100px;
+}
+
+.images-size img {
+    width: 80px;
+}
+.card-down img{
+    width: 20px;
+}
+.card-down h5{
+    font-size: 15px;
+}
+.margin{
+    margin-left: 130px;
+}
+footer{
+    background-color: rgb(40, 37, 49);
+    height: 350px;
+}
+.ul-li ul li{
+    list-style: none;
+}
+.m-right{
+    margin-right: 100px;
+}
